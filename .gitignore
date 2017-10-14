@@ -1,5 +1,6 @@
-
+*.out
 *.exe
 *.1 controlCPU
 ../Algorithm/graph/test
 beauty_of_programming/1.1controlCPU
+beauty_of_programming/2.4.out
